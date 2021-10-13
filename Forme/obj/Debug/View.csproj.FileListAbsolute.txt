@@ -1,0 +1,235 @@
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.FrmGlavna.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\Forme.UserControls.UCManufacturer.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Kontroler.dll
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\source\repos\Vezbe04\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.FrmGlavna.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\Forme.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Forme\obj\Debug\Forme.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.FrmGlavna.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.Dialogs.AddManufacturerDialog.resources
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Forme\obj\Debug\Forme.UserControls.UCDataGridViewManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.Dialogs.AddManufacturerDialog.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.FrmGlavna.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCDataGridViewManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCAddInvoice.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.Dialogs.AddManufacturerDialog.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.FrmGlavna.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCAddInvoice.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCDataGridViewManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Common.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Common.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.Dialogs.AddManufacturerDialog.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCAddInvoice.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCDataGridViewManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\Forme.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Forme\obj\Debug\View.FrmMain.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Forme.exe.config
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Forme.exe
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Forme.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Common.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Storage.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Common.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\Storage.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.Dialogs.AddManufacturerDialog.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.FrmMain.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCAddInvoice.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCAllManufacturers.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCDataGridViewManufacturer.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCManufacturer.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCUser.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.UserControls.UCProduct.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\Forme.exe
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Forme\obj\Debug\Forme.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.FrmMain.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.exe
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Forme.exe.config
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Forme.exe
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Forme.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Common.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Storage.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Common.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\Storage.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCDodajNovogClana.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCProveraClanarine.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCUnosKnjige.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCDodajNaslov.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCPretragaKnjiga.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCZaduzivanjeClana.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Forme\obj\Debug\Forme.UserControls.UCRazduzivanjeClana.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Forme.exe.config
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Forme.exe
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Forme.pdb
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Common.dll
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Storage.dll
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Common.pdb
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\Storage.pdb
+C:\Users\Luka\Documents\Biblioteka\Forme\bin\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.FrmMain.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.FrmLogin.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCDodajNaslov.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCDodajNovogClana.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCPretragaKnjiga.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCProveraClanarine.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCRazduzivanjeClana.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCUnosKnjige.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.UserControls.UCZaduzivanjeClana.resources
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\View.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.exe
+C:\Users\Luka\Documents\Biblioteka\Forme\obj\Debug\Forme.pdb

@@ -1,0 +1,36 @@
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\bin\Debug\Common.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\bin\Debug\Common.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\obj\Debug\Common.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\obj\Debug\Common.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\bin\Debug\Common.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\bin\Debug\Common.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\obj\Debug\Common.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Common\obj\Debug\Common.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\bin\Debug\Common.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\bin\Debug\Common.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\obj\Debug\Common.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Common\obj\Debug\Common.pdb
+C:\Users\Luka\Documents\Biblioteka\Common\bin\Debug\Common.dll
+C:\Users\Luka\Documents\Biblioteka\Common\bin\Debug\Common.pdb
+C:\Users\Luka\Documents\Biblioteka\Common\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Common\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Common\obj\Debug\Common.dll
+C:\Users\Luka\Documents\Biblioteka\Common\obj\Debug\Common.pdb

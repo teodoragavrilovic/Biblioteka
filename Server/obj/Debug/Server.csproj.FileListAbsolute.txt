@@ -1,0 +1,90 @@
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Server.exe.config
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Server.exe
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Server.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Common.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Common.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.exe
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\obj\Debug\Server.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Server.exe.config
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Server.exe
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Server.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Common.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Storage.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Common.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\Storage.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.exe
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\obj\Debug\Server.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\SystemOperations.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Server\bin\Debug\SystemOperations.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.exe
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Server.exe.config
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Server.exe
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Server.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Common.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Kontroler.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Storage.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\SystemOperations.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Common.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Kontroler.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\Storage.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\SystemOperations.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Server.exe.config
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Server.exe
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Server.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Common.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Kontroler.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Storage.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\SystemOperations.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Common.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Kontroler.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\Storage.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\SystemOperations.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.exe
+C:\Users\Luka\Documents\Biblioteka\Server\obj\Debug\Server.pdb

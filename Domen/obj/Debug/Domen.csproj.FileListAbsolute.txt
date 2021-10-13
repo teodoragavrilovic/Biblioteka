@@ -1,0 +1,5 @@
+C:\Users\tatjana\source\repos\Vezbe04\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domen.pdb

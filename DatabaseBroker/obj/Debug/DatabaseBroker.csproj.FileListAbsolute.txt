@@ -1,0 +1,81 @@
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\source\repos\Vezbe04\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

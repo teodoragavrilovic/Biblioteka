@@ -1,0 +1,11 @@
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.csproj.CopyComplete
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.pdb

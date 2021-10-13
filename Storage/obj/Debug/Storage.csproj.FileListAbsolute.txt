@@ -1,0 +1,99 @@
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\source\repos\Vezbe04\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\source\repos\Vezbe04\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\source\repos\Vezbe04\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Storage\obj\Debug\Storage.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\Storage.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\Storage.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\obj\Debug\Storage.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Storage\obj\Debug\Storage.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\Storage.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\Storage.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\obj\Debug\Storage.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Storage\obj\Debug\Storage.pdb
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\Storage.dll
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\Storage.pdb
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\Storage\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Storage\obj\Debug\Storage.dll
+C:\Users\Luka\Documents\Biblioteka\Storage\obj\Debug\Storage.pdb

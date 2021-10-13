@@ -1,0 +1,123 @@
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\source\repos\Vezbe04\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Storage.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\Storage.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\SystemOperations.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Kontroler\bin\Debug\SystemOperations.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\obj\Debug\Kontroler.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Storage.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\SystemOperations.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\Storage.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\SystemOperations.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Kontroler.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Kontroler.pdb
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Storage.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\SystemOperations.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\DatabaseBroker.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\Storage.pdb
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\SystemOperations.pdb
+C:\Users\Luka\Documents\Biblioteka\Kontroler\bin\Debug\DatabaseBroker.pdb
+C:\Users\Luka\Documents\Biblioteka\Kontroler\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Kontroler\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Kontroler\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\Luka\Documents\Biblioteka\Kontroler\obj\Debug\Kontroler.dll
+C:\Users\Luka\Documents\Biblioteka\Kontroler\obj\Debug\Kontroler.pdb

@@ -1,0 +1,51 @@
+C:\Users\tatjana\source\repos\Vezbe04\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\source\repos\Vezbe04\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe06\Vezbe06\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe07\Vezbe07\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08\Vezbe08\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe08 (1)\Vezbe08\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Downloads\Vezbe09 (1)\Vezbe08\Domen\obj\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Domen\bin\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Domen\bin\Debug\Domen.pdb
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Domen\obj\Debug\Domen.dll
+C:\Users\tatjana\Desktop\Vezbe12\Vezbe12\Domen\obj\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\bin\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\bin\Debug\Domen.pdb
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\obj\Debug\Domen.dll
+C:\Users\fonis\OneDrive\Desktop\Konacna arhitektura\Domen\obj\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Domen\bin\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Domen\bin\Debug\Domen.pdb
+C:\Users\Luka\Documents\Biblioteka\Domen\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Luka\Documents\Biblioteka\Domen\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\Biblioteka\Domen\obj\Debug\Domen.dll
+C:\Users\Luka\Documents\Biblioteka\Domen\obj\Debug\Domen.pdb
